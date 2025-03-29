@@ -1,4 +1,3 @@
-\
 # AI Resume Matcher
 
 An intelligent, full-stack web application that allows users to upload their resumes and receive AI-generated matches with job listings. Powered by Google’s **Gemini API**, **FastAPI**, **PostgreSQL**, and a simple **Streamlit frontend**, this app demonstrates the use of semantic similarity in real-world job applications.
