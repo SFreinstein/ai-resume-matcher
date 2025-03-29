@@ -1,0 +1,32 @@
+John Doe
+Software Engineer | AI Enthusiast | Data Science Practitioner
+
+Skills:
+- Python, FastAPI, Flask, SQL, PostgreSQL
+- Machine Learning, Data Analysis, Natural Language Processing (NLP)
+- Docker, Git, CI/CD, REST APIs
+- JavaScript, HTML/CSS, React
+
+Experience:
+1. Backend Developer at TechNova
+   - Built scalable APIs using FastAPI and PostgreSQL
+   - Integrated OAuth2 and JWT authentication
+   - Collaborated with frontend teams using React
+
+2. Data Analyst Intern at InsightCorp
+   - Cleaned and analyzed large datasets with pandas
+   - Built predictive models using scikit-learn
+   - Delivered insights via dashboards and reports
+
+Projects:
+- Resume Matcher: Developed an AI tool using Python and LLMs to match resumes with job listings.
+- NLP Chatbot: Created a chatbot using NLP techniques to answer customer service questions.
+
+Education:
+B.S. in Computer Science, University of Example
+
+Certifications:
+- Deep Learning Specialization (Coursera)
+- Docker & Kubernetes for Developers
+
+References available upon request.

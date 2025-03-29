@@ -1,0 +1,22 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Environment Variables
+.env
+
+# IDE/editor files
+.vscode/
+
+# Docker
+*.log
+*.db
+
+# OS-specific
+.DS_Store
+Thumbs.db

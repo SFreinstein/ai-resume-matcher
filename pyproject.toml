@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "ai-resume-matcher"
+version = "0.1.0"
+description = "AI Resume Matcher project using FastAPI, Streamlit, PostgreSQL, and Gemini API."
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.78.0"
+uvicorn = "^0.18.0"
+sqlalchemy = "^1.4.0"
+psycopg2-binary = "^2.9.0"
+python-jose = {extras = ["cryptography"], version = "^3.3.0"}
+passlib = {extras = ["bcrypt"], version = "^1.7.4"}
+requests = "^2.27.1"
+streamlit = "^1.12.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
