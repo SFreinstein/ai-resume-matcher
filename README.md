@@ -72,6 +72,10 @@ GEMINI_API_URL=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.
 # Navigate to your project directory
 cd ~/AI-Resume-Matcher
 
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
 # Build and run the containers
 sudo docker-compose up --build
 ```
@@ -81,6 +85,10 @@ sudo docker-compose up --build
 ```powershell
 # Navigate to your project directory
 cd C:\Path\To\AI-Resume-Matcher
+
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
 
 # Build and run the containers
 docker-compose up --build
